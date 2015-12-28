@@ -4,7 +4,7 @@
   1. [Create JUnit Tests for UI](https://github.com/evhill/Team15Alpha/blob/master/Skill/app/src/androidTest/java/com/skilltradiez/skilltraderz/EspressoTest.java)
   2. Implement exception handling as much as possible.
   3. Implement more use cases. 
-
+ 
 ####Part 5 Requirements
    1. [Code Base of Prototype:](https://github.com/CMPUT301F15T15/Team15Alpha)have a code base
    2. [Code Documentation: brief introductory comment for each source file](https://github.com/CMPUT301F15T15/Team15Alpha/wiki/Brief-Comment-For-Each-File)
